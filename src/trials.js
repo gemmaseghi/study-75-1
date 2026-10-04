@@ -145,12 +145,12 @@ const trials = [
 {
     id: 14,
     phase: "test",
-    condition: "fillersize",
-    utterance: "La bandiera piccola",
-    item: "The small blue flag",
-    image: "/stimuli/trial_14.png",
-    greyCell: "topLeft",
-    correctAnswer: "bottomRight"
+    condition: "fillercolor",
+    utterance: "La mela rossa",
+    item: "The red apple",
+    image: "/stimuli/trial_18.png",
+    greyCell: "topRight",
+    correctAnswer: "bottomLeft"
   },
 
 {
@@ -189,12 +189,12 @@ const trials = [
 {
     id: 18,
     phase: "test",
-    condition: "fillercolor",
-    utterance: "La mela rossa",
-    item: "The red apple",
-    image: "/stimuli/trial_18.png",
-    greyCell: "topRight",
-    correctAnswer: "bottomLeft"
+    condition: "fillersize",
+    utterance: "La bandiera piccola",
+    item: "The small blue flag",
+    image: "/stimuli/trial_14.png",
+    greyCell: "topLeft",
+    correctAnswer: "bottomRight"
   },
 
 {
