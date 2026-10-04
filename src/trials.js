@@ -135,8 +135,8 @@ const trials = [
     id: 13,
     phase: "test",
     condition: "suspicious",
-    utterance: "La pala blu",
-    item: "The blue shovel",
+    utterance: "La pala grande",
+    item: "The big blue shovel",
     image: "/stimuli/trial_13.png",
     greyCell: "bottomRight",
     correctAnswer: "topLeft"
@@ -168,8 +168,8 @@ const trials = [
     id: 16,
     phase: "test",
     condition: "suspicious",
-    utterance: "Il pesce arancione",
-    item: "The orange fish",
+    utterance: "Il pesce piccolo",
+    item: "The small orangefish",
     image: "/stimuli/trial_16.png",
     greyCell: "bottomRight",
     correctAnswer: "topLeft"
